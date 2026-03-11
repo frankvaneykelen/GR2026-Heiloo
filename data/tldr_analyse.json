@@ -1,0 +1,821 @@
+{
+  "partijen": [
+    "CDA",
+    "D66",
+    "Gemeentebelangen Heiloo",
+    "GroenLinks-PvdA",
+    "Heiloo-2000",
+    "VVD"
+  ],
+  "issues": [
+    {
+      "id": "afslag_a9",
+      "label": "Aanleg afslag A9",
+      "categorie": "Verkeer",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": "ezuiniger te maken. Een woonomgeving met aandacht voor leefbaarheid, bereikbaarheid en veiligheid • De verkeersveiligheid en leefbaarheid in Heiloo zijn leidend bij keuzes bij de regie ten aanzien van verkeersstromen . • Blijvende inzet op de aanleg afslag A9 . • Vermijden van extra belasting op het verkeer in de wijk Ypestein, oftewel geen knip op de Kanaalweg . • Blijven investeren in (veilige) fietsverbindingen en veiligheid van voetgangers . • Inzet op goede intercityverbinding , zodat inwoners snel",
+          "pos_matches": [
+            "aanleg afslag a9",
+            "essentieel",
+            "realiseren",
+            "blijvende inzet"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "gemengd",
+          "context": "eil houden van de sociale en culturele voorzieningen. Voor meer kansen voor jongeren en starters op de woningmarkt.  Beide fracties  zijn geen voorstander  van megalomane projecten ten koste van de inwoners, zoals het BUCH-samenwerkingsverband en de Afslag A9. De fracties van Gemeentebelangen Heiloo en de NCPN Heiloo stellen het leven van mens en dier centraal en vinden een gezond en groen  leefmilieu belangrijk.  Beide fracties willen zich bij uitstek inzetten voor de belangen van de inwoners van Heiloo",
+          "pos_matches": [
+            "essentieel",
+            "realiseren"
+          ],
+          "neg_matches": [
+            "aantasting"
+          ]
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "n (waarvan 130 in de sociale sector), bleef Het Baafje open, werd de tweede sporthal gerealiseerd en kreeg de dans- en muziekschool een nieuw onderkomen. Tegelijk ziet Heiloo-2000 nog belangrijke uitdagingen, zoals de vertraging bij de aanleg van de afslag A9 en de woningbouw in de Zandzoom. Hier wil de partij voortvarend mee aan de slag. Heiloo-2000 profileert zich als een praktische, lokale partij — niet links of rechts — die staat voor een financieel gezond dorp met sterke voorzieningen. Heiloo is gel",
+          "pos_matches": [
+            "voortvarend",
+            "essentieel",
+            "realiseren"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "positief",
+          "context": "met oplossingen voor de Vennewatersweg en het starten met de aanpassingen aan de Zevenhuizenlaan. Op vragen van de VVD heeft de wethouder toegezegd dat in november het bestemmingsplan over de Zandzoom  zal worden behandeld en snel daarna dat van de afslag A9, zodat er eindelijk kan worden begonnen met de bouw van woningen in alle categorieën. Deel dit bericht Deel via LinkedIn Deel via Twitter Deel via Facebook URL kopiëren URL succesvol gekopieerd. Er is iets fout gegaan, de URL kon niet gekopieerd wor",
+          "pos_matches": [
+            "afslag a9, de bouw"
+          ],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "knip_kanaalweg",
+      "label": "Knip Kanaalweg (afsluiten doorgaand verkeer)",
+      "categorie": "Verkeer",
+      "partijen": {
+        "CDA": {
+          "stance": "negatief",
+          "context": "erkeersveiligheid en leefbaarheid in Heiloo zijn leidend bij keuzes bij de regie ten aanzien van verkeersstromen . • Blijvende inzet op de aanleg afslag A9 . • Vermijden van extra belasting op het verkeer in de wijk Ypestein, oftewel geen knip op de Kanaalweg . • Blijven investeren in (veilige) fietsverbindingen en veiligheid van voetgangers . • Inzet op goede intercityverbinding , zodat inwoners snel en duurzaam naar Alkmaar, Haarlem en Amsterdam kunnen reizen. Daarbij een fatsoenlijk ingerichte wachtru",
+          "pos_matches": [],
+          "neg_matches": [
+            "geen knip",
+            "vermijden van extra belasting"
+          ]
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "woningbouw_zandzoom",
+      "label": "Woningbouw in Zandzoom",
+      "categorie": "Wonen",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": "eente vastgoed ‘ zo veel mogelijk benut. • Minder regels, meer vertrouwen ; de gemeente denkt in mogelijkheden in plaats van beperkingen. Een woonvoorraad die recht doet aan de verschillende doelgroepen • Prioriteit geven aan uitvoering van het plan Zandzoom ; bij deze ontwikkeling inzetten op een juiste mix van woningen voor starters, doorstromers en senioren in een natuurlijke omgeving. • Aanjagen van een snelle ontwikkeling van woningen op ‘inbrei locaties’ , in goed overleg met de betreffende buurtb",
+          "pos_matches": [
+            "prioriteit geven aan uitvoering",
+            "snelle ontwikkeling"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "negatief",
+          "context": "os moet worden aangelegd. N atuur en recreatie gaan niet overal samen. Wij kiezen voor de natuur. In het Groenbeleidsplan 2012 -2022 wordt uitgegaan van een groene ring om Heiloo. Deze ring, vanaf het Heilooër Bos via de Noorder- en de Zuiderneg, de Zandzoom, het Oosterbos en het Heilooër Die, staat steeds meer onder druk. Met name de Aansluiting A9 en de nieuwbouw in Zandzoom –een uitbreiding van het bebouwde areaal van Heiloo met maar liefst 25%- betekenen een enorme aantasting van de groene ruimte en",
+          "pos_matches": [],
+          "neg_matches": [
+            "uitbreiding van het bebouwde areaal",
+            "enorme aantasting",
+            "25%",
+            "verlies"
+          ]
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "or), bleef Het Baafje open, werd de tweede sporthal gerealiseerd en kreeg de dans- en muziekschool een nieuw onderkomen. Tegelijk ziet Heiloo-2000 nog belangrijke uitdagingen, zoals de vertraging bij de aanleg van de afslag A9 en de woningbouw in de Zandzoom. Hier wil de partij voortvarend mee aan de slag. Heiloo-2000 profileert zich als een praktische, lokale partij — niet links of rechts — die staat voor een financieel gezond dorp met sterke voorzieningen. Heiloo is geliefd om zijn groene karakter, kl",
+          "pos_matches": [
+            "zandzoom moet nu",
+            "voortvarend"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "positief",
+          "context": "wij aandacht gevraagd om zo snel als mogelijk is te komen met oplossingen voor de Vennewatersweg en het starten met de aanpassingen aan de Zevenhuizenlaan. Op vragen van de VVD heeft de wethouder toegezegd dat in november het bestemmingsplan over de Zandzoom  zal worden behandeld en snel daarna dat van de afslag A9, zodat er eindelijk kan worden begonnen met de bouw van woningen in alle categorieën. Deel dit bericht Deel via LinkedIn Deel via Twitter Deel via Facebook URL kopiëren URL succesvol gekopiee",
+          "pos_matches": [
+            "bouw van woningen in de zandzoom"
+          ],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "sociale_huur",
+      "label": "Meer sociale huurwoningen",
+      "categorie": "Wonen",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": "senioren in een natuurlijke omgeving. • Aanjagen van een snelle ontwikkeling van woningen op ‘inbrei locaties’ , in goed overleg met de betreffende buurtbewoners en het aanpakken van langdurige leegstand. • Bij nieuwbouw een goede mix realiseren van sociale huurwoningen en ‘midden huur’ en ‘midden koop’ woningen . • Binnen de nieuwe voorraad koopwoningen minimaal 10% reserveren voor kopers met een economische of maatschappelijke binding met Heiloo . • Realisatie van levensloopbestendige woningen voor senior",
+          "pos_matches": [
+            "sociale huurwoningen"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "genoemd",
+          "context": "jft en waar iedereen mee kan doen. Wat hiervoor nodig is kunt u in dit verkiezingsprogramma 2026-2030 lezen. De BUCH heeft ook veel goeds gebracht: een goed functionerend systeem van afvalverwerking en recycling, een stevig klimaatadaptatiebeleid en betaalbaar onderhoud van onze openbare ruimte. We hebben samen in diverse gemeenschappelijke regelingen de basis goed op orde. Daar kunnen we op voortbouwen als we in Heiloo investeren in mensen en organisaties die daarvoor nodig zijn. De grote opgaven in de w",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "positief",
+          "context": "geren, starters, alleenstaanden en ouderen zitten nu klem. Dat moet echt anders. Speerpunten: • 40% betaalbaar, 40% middensegment, 20% duur bij nieuwbouw • Loket Wonen voor splitsen, mantelzorgwoningen en nieuwe woonvormen zoals Knarrenhofjes • Meer sociale huur op gemeentelijke grond • Antispeculatie: geen woningen als beleggingsobject Meer thema’s Groen en duurzaamheid Duurzaam wonen Verkeer en vervoer Sport, kunst en cultuur Inclusie, toegankelijkheid en gelijke kansen Lokale democratie en inspraak Werk,",
+          "pos_matches": [
+            "40% betaalbaar",
+            "meer sociale huur"
+          ],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "genoemd",
+          "context": "le standpunten Over onze mensen Waar iedereen zich thuis voelt Waar wordt geïnvesteerd in onderwijs en jeugd Waar de cultuursector dynamisch en inclusief is Waar iedereen meedoet Waar voor iedereen de noodzakelijke ondersteuning is Waar de jeugdzorg betaalbaar en effectief is Waar de samenleving gezond en sportief is Lees voor Lees Voor Sluit zoekvenster Zoeken: Zoeken Confidental Infomation Verkiezingsprogramma VVD Heiloo 2026-2030 - HEILOO Nieuwsoverzicht Verkiezingsprogramma VVD Heiloo 2026-2030 16 jan",
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "bouwhoogte",
+      "label": "Hoogbouw toestaan",
+      "categorie": "Wonen",
+      "partijen": {
+        "CDA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "negatief",
+          "context": "is parkeervoorzieningen, maar elke keer zijn er mensen die voorstellen om over te gaan op betaald parkeren. Wat ons betreft blijft het parkeerbeleid in Heiloo onverkort gericht op – weliswaar met blauwe schijf – gratis parkeren. Hetzelfde geldt voor hoogbouw. Heiloo heeft een eigen dorps karakter, met onder meer de kenmerkende punthuisjes. Dat geeft ons dorp sfeer en een eigen gezicht. Mede daarom willen wij geen verdere hoogbouw realiseren, dus ‘driehoog’ is voor ons dorp hoog genoeg. Word lid van HEIL",
+          "pos_matches": [],
+          "neg_matches": [
+            "geen verdere hoogbouw",
+            "driehoog",
+            "dorps karakter"
+          ]
+        },
+        "VVD": {
+          "stance": "negatief",
+          "context": "enteraadsverkiezingen centraal stellen? Woningbouw, mobiliteit (afslag A9), zuinig omgaan met overheidsgeld, dus geen grote stijging van de lasten voor de inwoners, behoud van wat typisch Heiloo is, zoals het Baafje en de bibliotheek en geen massale hoogbouw. Je zit al een tijdje in de raad. Toch nog een periode? Ik meen dat Mark Rutte het na 12 jaar wel genoeg vond. Ja, dat klopt, hoewel Mark nooit in een gemeenteraad heeft gezeten. Zijn baan was ook intensiever dan lid van de raad dus ik snap dat hij",
+          "pos_matches": [],
+          "neg_matches": [
+            "geen massale hoogbouw"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fusie",
+      "label": "Bestuurlijke fusie (BUCH-gemeenten samenvoegen)",
+      "categorie": "Bestuur",
+      "partijen": {
+        "CDA": {
+          "stance": "gemengd",
+          "context": "n een sterk Heiloo waar iedereen zich thuis kan voelen; we zijn trots op het verleden, we vertrouwen in de toekomst . - Heiloo is en blijft een vitale en veerkrachtige gemeenschap met een sterke identiteit . Hierbij staan wij open voor een eventuele fusie met een of meer gelijkwaardige partners, onder de uitdrukkelijke voorwaarde dat dit aantoonbare meerwaarde gaat bieden. - Heiloo is en blijft een dorp waar mensen naar elkaar omzien, waar we samen verantwoordelijkheid nemen en bouwen aan een toekoms",
+          "pos_matches": [
+            "open voor een eventuele fusie",
+            "fusie met een of meer"
+          ],
+          "neg_matches": [
+            "geen doel op zich"
+          ]
+        },
+        "D66": {
+          "stance": "neutraal",
+          "context": "over de verkiezingsprogramma’s. De avond liet zien dat elk dorp eigen accenten heeft, maar ook veel overeenkomsten: goede voorzieningen, levendige dorpen, duurzaam en betaalbaar wonen voor jong en oud, aandacht voor groen én natuurlijk de mogelijke fusie. Er waren inspirerende discussies en ideeën voor de campagne. En het bleef nog lang gezellig bij de borrel. Wil je ook meedenken of meedoen met D66? Je bent van harte welkom! Neem contact op met de [email protected] . Hoofdlijnen programma’s Tijdens",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "genoemd",
+          "context": "port zoals Baafje, vrijwilligers zoals VIP en Trefpunt), inzetten op ecologisch verantwoord groen- en landschapsbeheer, ijveren voor het terugdringen van de overlast van vliegverkeer. Behouden en versterken van de lokale democratie Geen bestuurlijke fusie met buurgemeenten uit financiële nood, maar een gezonde lokale democratie door: laagdrempelige politiek, tijdige en objectieve informatievoorziening, actief en tijdig betrekken inwoners bij de besluitvorming, referenda over belangrijke kwesties, fin",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "negatief",
+          "context": "2000 Zelfstandig waar het kan, samen waar het moet. Heiloo is sinds het begin van 2017 een onderdeel van de BUCH. In deze werkorganisatie werken ruim 700 medewerkers van de gemeente Bergen, Uitgeest, Castricum en Heiloo. Dit noemen we een ambtelijke fusie. De 4 gemeenten blijven hierbij bestuurlijk zelfstandig. HEILOO-2000 kan zich vinden in de ambtelijke fusie, maar wil niet overgaan tot een bestuurlijke fusie waarbij de gemeenten samensmelten. Wij willen onze zelfstandigheid als Heiloo zoveel mogel",
+          "pos_matches": [],
+          "neg_matches": [
+            "niet overgaan tot een bestuurlijke fusie"
+          ]
+        },
+        "VVD": {
+          "stance": "neutraal",
+          "context": "De Algemene Ledenvergadering van VVD Heiloo heeft René van Splunteren aangewezen als lijsttrekker voor de gemeenteraads- verkiezingen op 18 maart 2026. 17 oktober 2025 Heiloo staat voor grote uitdagingen: het vraagstuk rondom de toekomst van Heiloo (fusie of geen fusie), aanpak wooncrisis en mobiliteit en het ravijnjaar dat langzaam maar zeker op ons af komt. René is inmiddels de nestor van de huidige raad en heeft dus al vele jaren meegedraaid in de lokale en regionale politiek. De VVD leden in Heil",
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "zelfstandig_heiloo",
+      "label": "Heiloo zelfstandig houden",
+      "categorie": "Bestuur",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": "ndament onder onze samenleving. Een samenleving waarin burgers zich verbonden voelen met elkaar, met hun leefomgeving en daaraan actief bijdragen. We hebben respect voor de eigen identiteit van mensen en streven naar het vergroten van eigen regie en zelfstandigheid van iedere bewoner. Dit vraagt om een gemeente die ‘nabij’ is, faciliteert en goed toegankelijk is. Onze standpunten Algemene uitgangspunten - Samen bouwen we verder aan een sterk Heiloo waar iedereen zich thuis kan voelen; we zijn trots op het",
+          "pos_matches": [
+            "eigen gemeente"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "genoemd",
+          "context": "r homepage naar homepage Delen Deel Share Delen Lokale Democratie / Speerpunten | gemeentebelangen.heiloo Ga direct naar de hoofdinhoud Gemeentebelangen Heiloo Gemeentebelangen Heiloo Lokale Democratie Transparante, heldere politiek en Heiloo is een zelfstandige gemeente met een eigen bestuur. Het hoogste bestuursorgaan in de gemeente is de gemeenteraad. Deze wordt elke vier jaar democratisch gekozen. In Heiloo nemen 19 volksvertegenwoordigers deel aan de gemeenteraad en zij besluiten in principe over al h",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "efbaarheid Zorg, welzijn en onderwijs Sport, cultuur en jongeren Economie, duurzaamheid en mobiliteit Bestuurlijke toekomst en participatie Financieel beleid Inleiding Heiloo-2000 richt zich al bijna zestig jaar op het behouden en versterken van een zelfstandig, groen en leefbaar Heiloo. De partij roept inwoners op om bij de komende gemeenteraadsverkiezingen te stemmen en zo de lokale democratie levendig te houden. Heiloo-2000 benadrukt dat problemen het best worden opgelost door samenwerking, nuance en re",
+          "pos_matches": [
+            "bestuurlijk zelfstandig"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "aardgasvrij",
+      "label": "Verplicht van het aardgas af",
+      "categorie": "Duurzaamheid",
+      "partijen": {
+        "CDA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "negatief",
+          "context": "Groen is volgens Heiloo-2000 geen kostenpost, maar een waardevol bezit. De partij wil de groene ring rond Heiloo compleet maken, biodiversiteit versterken en milieuvriendelijke plannen en duurzaamheid stimuleren, zonder mensen te verplichten van het gas af te gaan. Zorg, welzijn en onderwijs De partij ziet de vergrijzing als een sleutelpunt. Dat vraagt om toegankelijke zorg, meer samenwerking tussen zorgprofessionals en ondersteuning van wijkteams. Welzijn, eenzaamheid en psychische gezondheid verdien",
+          "pos_matches": [],
+          "neg_matches": [
+            "zonder mensen te verplichten"
+          ]
+        },
+        "VVD": {
+          "stance": "negatief",
+          "context": "lunteren Uitkijkpost | reactie VVD op stellingen van politieke partijen Open de Filters 17 resultaten Netwerk Netwerk Netwerk Landelijk Wis selectie Sluiten Sluit het filter Netwerk Bekijk resultaten 17\t\t\t\t\t\t resultaten Gekozen filters: Alles wissen Aardgasvrij? Zeker niet onder dwang! Nieuw commissielid VVD-Heiloo Lees voor Lees Voor Sluit zoekvenster Zoeken: Zoeken Confidental Infomation VVD Heiloo start in samenwerking met BeatFM de wekelijkse podcast “In gesprek over Heiloo\" - HEILOO Nieuwsoverzich",
+          "pos_matches": [],
+          "neg_matches": [
+            "tegen verplicht aardgasvrij",
+            "niet onder dwang",
+            "gasweigeraar",
+            "van het gasweigeraar"
+          ]
+        }
+      }
+    },
+    {
+      "id": "windmolens",
+      "label": "Windmolens in/bij Heiloo",
+      "categorie": "Duurzaamheid",
+      "partijen": {
+        "CDA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "gemengd",
+          "context": "in het Heilooër Die gebied, geen optie. Dit is een particulier initiatief met winstoogmerk en teveel vogels worden het slachtoffer van zo’n ‘gehaktmolen’. Met de natuurorganisaties is Gemeentebelangen Heiloo ook van mening dat er geen “confetti” van windmolens en zonneweiden moet komen, maar een clustering daar waar de negatieve effecten beperkt zijn; de Schermer, Purmer, tussen Alkmaar en Schagen en in het Noordzeekanaalgebied. De haalbaarheid van meer opwekking van energie via zonnepanelen en windturbi",
+          "pos_matches": [
+            "extra windturbine"
+          ],
+          "neg_matches": [
+            "gehaktmolen"
+          ]
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "zonnepanelen",
+      "label": "Zonnepanelen en zonne-energie stimuleren",
+      "categorie": "Duurzaamheid",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": "tuinders krijgen ruimte om duurzaam te ondernemen en bij te dragen aan biodiversiteit en schone energie. • Actieve ondersteuning van groene en duurzame projecten van inwoners. We kiezen voor de stimulans van “zon op dak”-projecten en geluidswal met zonnepanelen in plaats van grootschalige zonnevelden. • Een CO₂-neutrale gemeente , alle gemeentelijke gebouwen en het wagenpark worden volledig duurzaam ingericht. • Lokale en regionale inkoop , gemeentelijke opdrachten gaan bij voorkeur naar lokale ondernemers",
+          "pos_matches": [
+            "zon op dak"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "positief",
+          "context": "er” de norm. Gedacht wordt aan alternatieven, zoals een warmtenet met bijvoorbeeld de Huisvuilcentrale in Alkmaar en warmtepompen. Bij de energieopwekking uit zon en wind streeft de gemeente Heiloo in haar Regionale Energie Strategie (RES) naar meer zonnepanelen op daken én een extra windturbine in de Boekelermeer. Er zijn ook ideeën geopperd voor zonnepanelen langs de A9. De gezamenlijke milieuorganisaties hebben een eigen standpunt over de RES geformuleerd. Gemeente-belangen Heiloo sluit zich daarbij aan.",
+          "pos_matches": [
+            "zonnepanelen langs de a9",
+            "meer zonnepanelen"
+          ],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "isatie van het Loo-plein en het Stationsplein. Economie, duurzaamheid en mobiliteit Lokale ondernemers zijn essentieel voor Heiloo’s welvaart. Heiloo-2000 wil een gezond ondernemersklimaat en meer ruimte voor circulaire initiatieven. Projecten zoals zonnepanelen langs de A9 en wijkgerichte energietransities moeten helpen om het dorp duurzaam en onafhankelijker te maken. Mobiliteit moet toekomstbestendig worden: meer ruimte voor fietsers, minder verkeer in het dorpshart en een betere infrastructuur; met de f",
+          "pos_matches": [
+            "zonnepanelen langs de a9"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "ozb_verhogen",
+      "label": "OZB/lokale lasten verhogen",
+      "categorie": "Financiën",
+      "partijen": {
+        "CDA": {
+          "stance": "genoemd",
+          "context": "via e-communicatie. Hierbij hanteren we het motto ‘online waar het kan, persoonlijk waar het moet’ . • Verbeteren van communicatie tussen gemeente en burger. Heldere en begrijpelijke communicatie; inwoners moeten weten waar ze aan toe zijn. • Lokale lasten moeten in evenwicht zijn met de identiteit en kwaliteit van Heiloo, met oog voor de draagkracht van onze inwoners . Het CDA streeft naar een eerlijke en verantwoorde balans tussen inkomsten en uitgaven, zodat Heiloo financieel gezond en leefbaar bli",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "genoemd",
+          "context": "van natuur en milieu als de groene longen van onze samenleving Sociale rechtvaardigheid Sociale rechtvaardigheid en zorg voor, en solidariteit met, diegenen die het tijdelijk of langere tijd niet zelf redden De sterkste schouders dragen de zwaarste lasten Een overheid die hier op een integere, zorgvuldige en verantwoordelijke wijze op toe ziet Individuele vrijheid. Iedereen heeft recht op ontplooiing en een eigen stem Ieders individuele vrijheid wordt begrensd door de individuele vrijheid van een and",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "neutraal",
+          "context": "van de landelijke overheid. De gemeente krijgt steeds meer taken, maar vaak niet het budget dat daarvoor nodig is. Wat ons betreft mag dit nooit ten koste gaan van mensen die het nu al moeilijk hebben. Wij gaan uit van: ‘sterkste schouders, zwaarste lasten’. Meer thema’s Betaalbaar wonen voor jong en oud Groen en duurzaamheid Duurzaam wonen Verkeer en vervoer Sport, kunst en cultuur Inclusie, toegankelijkheid en gelijke kansen Lokale democratie en inspraak Werk, inkomen en economie Jeugd en jongeren O",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "genoemd",
+          "context": "biliteit moet toekomstbestendig worden: meer ruimte voor fietsers, minder verkeer in het dorpshart en een betere infrastructuur; met de fiets dóór het dorp en met de auto óm het dorp, zogezegd. De afslag A9 is daarbij essentieel om het centrum te ontlasten. Bestuurlijke toekomst en participatie Heiloo-2000 vindt dat de inwoners moeten meebeslissen over de vraag: zelfstandig blijven, samenwerken binnen BUCH of fuseren met buurgemeenten? De keuze mag pas worden gemaakt na een zorgvuldig, democratisch pr",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "negatief",
+          "context": "en ik lid van de partij. Sinds 2002 ben ik lid van de gemeenteraad van Heiloo. Welke thema’s wil je in de gemeenteraadsverkiezingen centraal stellen? Woningbouw, mobiliteit (afslag A9), zuinig omgaan met overheidsgeld, dus geen grote stijging van de lasten voor de inwoners, behoud van wat typisch Heiloo is, zoals het Baafje en de bibliotheek en geen massale hoogbouw. Je zit al een tijdje in de raad. Toch nog een periode? Ik meen dat Mark Rutte het na 12 jaar wel genoeg vond. Ja, dat klopt, hoewel Mark",
+          "pos_matches": [],
+          "neg_matches": [
+            "geen grote stijging van de lasten",
+            "zuinig omgaan met overheidsgeld"
+          ]
+        }
+      }
+    },
+    {
+      "id": "participatie",
+      "label": "Meer burgerparticipatie/inspraak",
+      "categorie": "Bestuur",
+      "partijen": {
+        "CDA": {
+          "stance": "genoemd",
+          "context": "gemeente , alle gemeentelijke gebouwen en het wagenpark worden volledig duurzaam ingericht. • Lokale en regionale inkoop , gemeentelijke opdrachten gaan bij voorkeur naar lokale ondernemers, van hoveniers tot garages en onderhoudsbedrijven. Sterk in participatie en bestuur • Een gemeentelijke fusie is voor het CDA geen doel op zich, maar een middel om de organisatie van Heiloo te versterken en de kwaliteit van onze samenleving te verbeteren. Goede dienstverlening en garanties voor het behoud van de lokale i",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "positief",
+          "context": "WhatsApp Twitter (X) D66 Heiloo Een cruciale periode Wij willen dat Heiloo een sociaal en welvarend dorp blijft, met goede voorzieningen, ruimte voor natuurherstel, betaalbare woningen voor jong en oud, en duurzame mobiliteit. De komende tijd staan inspraakrondes en scenario’s voor een mogelijke fusie van Heiloo met een andere gemeente op de agenda. Daarbij willen we ook de samenwerking tussen raad en college versterken. Het wordt een cruciale en spannende tijd! Er is veel bereikt Peter : “De afgelopen",
+          "pos_matches": [
+            "meebeslissen"
+          ],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "positief",
+          "context": "d biedt en ons bindt. Voor de komende gemeenteraadsverkiezingen en daarna. Deze beginselverklaring is geen keurslijf, maar een levend document; het wordt herijkt  aan de ontwikkelingen in onze maatschappij, gemeente en leefomgeving. Visie De huidige participatiemaatschappij vraagt steeds meer van de burger, maar geeft de burger niet navenant meer mogelijkheden om daadwerkelijk invloed uit te oefenen op het gemeentebestuur. Zo verwacht de overheid dat de burger meer mantelzorgtaken op zich neemt, maar krijgt",
+          "pos_matches": [
+            "meer mogelijkheden"
+          ],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "positief",
+          "context": "kunnen betalen, maar investeren in oplossingen die je rekening omlaag brengen. Meer thema’s Betaalbaar wonen voor jong en oud Duurzaam wonen Verkeer en vervoer Sport, kunst en cultuur Inclusie, toegankelijkheid en gelijke kansen Lokale democratie en inspraak Werk, inkomen en economie Jeugd en jongeren Onderwijs Zekerheid en sociaal beleid Financiën en begroting Veiligheid Toerisme en recreatie Deel thema 𝕏 Bekijk onze mensen Wie staan er voor GroenLinks-PvdA op de kandidatenlijst voor de gemeente Heiloo",
+          "pos_matches": [
+            "burgerberaden",
+            "samen ontwerpen",
+            "zeggenschap",
+            "echte inbreng"
+          ],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "kiezingsprogramma - HEILOO 2000 Verkiezings­programma HEILOO-2000 voor, door en met u. Navigeer naar: Inleiding Wonen en leefbaarheid Zorg, welzijn en onderwijs Sport, cultuur en jongeren Economie, duurzaamheid en mobiliteit Bestuurlijke toekomst en participatie Financieel beleid Inleiding Heiloo-2000 richt zich al bijna zestig jaar op het behouden en versterken van een zelfstandig, groen en leefbaar Heiloo. De partij roept inwoners op om bij de komende gemeenteraadsverkiezingen te stemmen en zo de lokale d",
+          "pos_matches": [
+            "sterk voorstander",
+            "meebeslissen",
+            "klankborden"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "looplein",
+      "label": "Revitalisatie Loo-plein/centrum",
+      "categorie": "Voorzieningen",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": ". Dat past bij onze inzet voor gemeenschapszin, zorg voor naasten en rentmeesterschap. Sterk in aantrekkelijke voorzieningen en bereikbaarheid • Een sterk en vitaal centrum , met bijzondere aandacht voor het stationsgebied en de ontwikkeling van het Looplein . Bruisende ontmoetingsplekken met ruimte voor winkels, markt, horeca, kleinschalige evenementen en een uitnodigend plein. • Heiloo als Fietsdorp op de kaart zetten. Dit betekent veilige fietsroutes door de hele gemeente en uitbreiding van fietsenst",
+          "pos_matches": [
+            "bruisende ontmoetingsplekken",
+            "sterk en vitaal centrum"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "positief",
+          "context": "creatie Er is ontzettend veel moois te zien en doen in Heiloo. GroenLinks-PvdA Heiloo wil dat we daar van kunnen blijven genieten. Daarom strijden we voor het behoud van belangrijke ontmoetingsplekken zoals Het Trefpunt, de bibliotheek, een gezellig Loo-plein, Zwembad ’t Baafje, en de mooie sportfaciliteiten die Heiloo rijk is. En ondersteunen we De Beun en Ons Podium en alle andere cultuurvoorzieningen die Heiloo bijzonder maken. Deze voorzieningen kunnen bestaan door de belangeloze inzet van vele honde",
+          "pos_matches": [
+            "gezellig"
+          ],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "n in deze voorzieningen, vrijwilligers ondersteunen en een nieuw toekomstbestendig sportbeleid ontwikkelen. Voor jongeren pleit de partij voor betaalbare starterswoningen en betere OV-verbindingen. Daarnaast zetten wij in op de revitalisatie van het Loo-plein en het Stationsplein. Economie, duurzaamheid en mobiliteit Lokale ondernemers zijn essentieel voor Heiloo’s welvaart. Heiloo-2000 wil een gezond ondernemersklimaat en meer ruimte voor circulaire initiatieven. Projecten zoals zonnepanelen langs de A9",
+          "pos_matches": [
+            "revitalisatie"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "positief",
+          "context": "oalitie hebben wij ons hiervoor hard gemaakt en tijdens de raadsvergadering bleek dat er bijna raadsbrede steun was voor de voorstellen. Zo is er geld uitgetrokken voor: Het behoud van het Baafje; Het moderniseren van het winkelcentrum ’t Loo en het Looplein; Het aanpakken van het Stationsplein; Het investeren in het behoud van het groen in Heiloo; Het doen van een aantal dringende reparaties bij basisscholen; Wij zijn erg blij dat we hierdoor de duurzame toekomst van Heiloo een flinke duw in de rug heb",
+          "pos_matches": [
+            "moderniseren",
+            "gezellig"
+          ],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "baafje",
+      "label": "Behoud Zwembad het Baafje",
+      "categorie": "Voorzieningen",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": "Dit betekent veilige fietsroutes door de hele gemeente en uitbreiding van fietsenstallingen bij het station en winkelcentra. • Goede sport-, cultuur- en recreatievoorzieningen , voor een gezonde en verbonden gemeenschap met toekomst voor zwembad het Baafje en theater De Beun. • Vrijwilligerswerk als ruggengraat van ons verenigingsleven ; dit verdient waardering, ondersteuning en versterking vanuit de gemeente. • Een groen en schoon dorp , dit betekent investeren in onderhoud, boomaanplant en het behou",
+          "pos_matches": [
+            "toekomst voor zwembad"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "neutraal",
+          "context": "om het dualisme in de praktijk te brengen. Met onze ervaren wethouder Antoine Tromp op het sociaal domein, sport en cultuur zijn we aan de slag gegaan. Het waren vier bewogen jaren. De naweeën van corona lieten zich al snel voelen: zowel zwembad het Baafje als theater de Beun gingen dicht door het faillissement van de stichting Heiloo Aktief. We zijn blij dat we samen met de raad, maar vooral door de inzet van de vele vrijwilligers, beide voorzieningen open hebben kunnen houden. Het heeft ook zichtbaa",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "genoemd",
+          "context": "huur voor de gemeentelijke faciliteiten die de maatschappelijke organisaties gebruiken. Een forse huurverhoging die niet wordt gecompenseerd via subsidies. In 2020 zijn de spaarpotten die waren gereserveerd voor de Bibliotheek, de Muziekschool, het Baafje en allerlei andere voorzieningen samengevoegd in één grote spaarpot (op grond van motie “Samenvoegen Bestemmingsreserves” van de VVD, CDA en Heiloo2000). Zo is niet meer te controleren of het apart gereserveerde geld voor die maatschappelijke voorzi",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "genoemd",
+          "context": "subsidies. Bekijk onze plannen Sport, kunst en cultuur Echte leefbaarheid begint bij ontmoeting. Daarom investeren we in plekken waar mensen elkaar tegenkomen: het Looplein, het stationsgebied, de bibliotheek, het Trefpunt, Ons Podium, De Beun, het Baafje, de sportaccomodaties. Die plaatsen moeten bruisen van leven. Bekijk onze plannen Lokale democratie en inspraak Inwoners weten wat hun straat of wijk nodig heeft. Daarom betrekken we hen bij plannen en beslissingen. Bekijk onze plannen Werk, inkomen",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "t echt bij het dorp past. De partij kijkt met trots terug op de afgelopen jaren. Er zijn veel resultaten geboekt in wonen, duurzaamheid, voorzieningen en mobiliteit. Zo kwamen er ruim 250 nieuwe woningen (waarvan 130 in de sociale sector), bleef Het Baafje open, werd de tweede sporthal gerealiseerd en kreeg de dans- en muziekschool een nieuw onderkomen. Tegelijk ziet Heiloo-2000 nog belangrijke uitdagingen, zoals de vertraging bij de aanleg van de afslag A9 en de woningbouw in de Zandzoom. Hier wil de",
+          "pos_matches": [
+            "baafje open"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "positief",
+          "context": "rag opzij te zetten voor noodzakelijke investeringen. In de coalitie hebben wij ons hiervoor hard gemaakt en tijdens de raadsvergadering bleek dat er bijna raadsbrede steun was voor de voorstellen. Zo is er geld uitgetrokken voor: Het behoud van het Baafje; Het moderniseren van het winkelcentrum ’t Loo en het Looplein; Het aanpakken van het Stationsplein; Het investeren in het behoud van het groen in Heiloo; Het doen van een aantal dringende reparaties bij basisscholen; Wij zijn erg blij dat we hierdo",
+          "pos_matches": [
+            "behoud van het baafje"
+          ],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "groen_behoud",
+      "label": "Behoud groene karakter Heiloo",
+      "categorie": "Groen",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": "omstbestendigheid • Behoud van het groene en open karakter van Heiloo , bouwen doen we in balans met natuur, landschap en leefomgeving. • Een vitale agrarische sector , boeren en tuinders krijgen ruimte om duurzaam te ondernemen en bij te dragen aan biodiversiteit en schone energie. • Actieve ondersteuning van groene en duurzame projecten van inwoners. We kiezen voor de stimulans van “zon op dak”-projecten en geluidswal met zonnepanelen in plaats van grootschalige zonnevelden. • Een CO₂-neutrale gemeente , al",
+          "pos_matches": [
+            "behoud van het groen",
+            "groene gemeente"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "positief",
+          "context": "ietsroute dwars door de Baafjespolder naar Bergen, waarvoor een fietstunnel in het Heilooër Bos moet worden aangelegd. N atuur en recreatie gaan niet overal samen. Wij kiezen voor de natuur. In het Groenbeleidsplan 2012 -2022 wordt uitgegaan van een groene ring om Heiloo. Deze ring, vanaf het Heilooër Bos via de Noorder- en de Zuiderneg, de Zandzoom, het Oosterbos en het Heilooër Die, staat steeds meer onder druk. Met name de Aansluiting A9 en de nieuwbouw in Zandzoom –een uitbreiding van het bebouwde area",
+          "pos_matches": [
+            "ecologisch groenbeleid",
+            "onder druk",
+            "aantasting van de groene ruimte"
+          ],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "positief",
+          "context": "ze standpunten lezen Word vrijwilliger of kijk hoe jij mee kan doen Doe mee in Heiloo Dit zijn onze mensen Bekijk alle kandidaten Nieuws Samen staan we voor Heiloo dit zijn onze kandidaten Onze standpunten GroenLinks-PvdA Heiloo zet zich in voor een groene, sociale en leefbare gemeente. Omdat bij ons iedereen meetelt! Bekijk alle standpunten Betaalbaar wonen voor jong en oud Groen en duurzaamheid Duurzaam wonen Onze kandidaten 1 Greet Burkels Raadslid en Lijsttrekker 2 Peter Croux Raadslid 3 Annemarie",
+          "pos_matches": [
+            "groene wijken",
+            "groene buurten",
+            "groene gemeente"
+          ],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "Het benutten van bestaande plekken (“inbreilocaties”) krijgt prioriteit, maar ook de Zandzoom moet nu echt ontwikkeld worden om het woningtekort aan te pakken. Groen is volgens Heiloo-2000 geen kostenpost, maar een waardevol bezit. De partij wil de groene ring rond Heiloo compleet maken, biodiversiteit versterken en milieuvriendelijke plannen en duurzaamheid stimuleren, zonder mensen te verplichten van het gas af te gaan. Zorg, welzijn en onderwijs De partij ziet de vergrijzing als een sleutelpunt. Dat vr",
+          "pos_matches": [
+            "biodiversiteit versterken"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    },
+    {
+      "id": "fiets",
+      "label": "Meer ruimte voor fietsers",
+      "categorie": "Verkeer",
+      "partijen": {
+        "CDA": {
+          "stance": "positief",
+          "context": "Een sterk en vitaal centrum , met bijzondere aandacht voor het stationsgebied en de ontwikkeling van het Looplein . Bruisende ontmoetingsplekken met ruimte voor winkels, markt, horeca, kleinschalige evenementen en een uitnodigend plein. • Heiloo als Fietsdorp op de kaart zetten. Dit betekent veilige fietsroutes door de hele gemeente en uitbreiding van fietsenstallingen bij het station en winkelcentra. • Goede sport-, cultuur- en recreatievoorzieningen , voor een gezonde en verbonden gemeenschap met t",
+          "pos_matches": [
+            "fietsdorp"
+          ],
+          "neg_matches": []
+        },
+        "D66": {
+          "stance": "niet_genoemd",
+          "context": null,
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Gemeentebelangen Heiloo": {
+          "stance": "genoemd",
+          "context": "eiloo. Gemeentebelangen Heiloo wil de landschappelijke en cultuurhistorische waarden, zoals de oude houtwallen en greppels en het Heilooër Die- en Oer IJ-gebied beschermen. Wij willen geen verdere aantasting van het landelijk gebied. Dus geen nieuwe fietsverbindingen dwars door belangrijk weidevogel- en NNN gebied in het Heilooër Die. En ook geen doorfietsroute dwars door de Baafjespolder naar Bergen, waarvoor een fietstunnel in het Heilooër Bos moet worden aangelegd. N atuur en recreatie gaan niet o",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "GroenLinks-PvdA": {
+          "stance": "genoemd",
+          "context": "o Naar inhoud Naar footer Standpunten Verkeer en vervoer Verkeer: veiligheid en leefbaarheid als norm Lang is bereikbaarheid door autoverkeer het vanzelfsprekende uitgangspunt geweest bij de inrichting van de straten in Heiloo. Het wordt nu tijd dat fietsers en voetgangers de ruimte krijgen die nodig is. Verkeer wordt vaak benaderd vanuit doorstroming en op basis daarvan wordt bepaald hoe straten worden gebruikt en ervaren. Te veel autoverkeer rijdt daardoor door straten die daar niet voor bedoeld zi",
+          "pos_matches": [],
+          "neg_matches": []
+        },
+        "Heiloo-2000": {
+          "stance": "positief",
+          "context": "limaat en meer ruimte voor circulaire initiatieven. Projecten zoals zonnepanelen langs de A9 en wijkgerichte energietransities moeten helpen om het dorp duurzaam en onafhankelijker te maken. Mobiliteit moet toekomstbestendig worden: meer ruimte voor fietsers, minder verkeer in het dorpshart en een betere infrastructuur; met de fiets dóór het dorp en met de auto óm het dorp, zogezegd. De afslag A9 is daarbij essentieel om het centrum te ontlasten. Bestuurlijke toekomst en participatie Heiloo-2000 vind",
+          "pos_matches": [
+            "meer ruimte voor fietsers"
+          ],
+          "neg_matches": []
+        },
+        "VVD": {
+          "stance": "genoemd",
+          "context": "on Parkeren in Heiloo - HEILOO Nieuwsoverzicht Parkeren in Heiloo 10 februari 2026 Parkeren naar behoefte. Genoeg plekken voor de auto bij ‘t Loo en station westzijde. Snel autoluw maken van station oostzijde Parkeren in de buurt is het uitgangspunt Fietsparkeren bij station beter regelen. Deel dit bericht Deel via LinkedIn Deel via Twitter Deel via Facebook URL kopiëren URL succesvol gekopieerd. Er is iets fout gegaan, de URL kon niet gekopieerd worden. Meer nieuws Verkiezingsprogramma VVD Heiloo 20",
+          "pos_matches": [],
+          "neg_matches": []
+        }
+      }
+    }
+  ]
+}
