@@ -369,7 +369,7 @@ def generate_html(partijen_namen, kleuren, urls, thema_namen, thema_analyse, mat
             categorien[cat].append(issue)
 
         tldr_headers = "".join(
-            f'<th style="background-color: {kleuren.get(p, "#666")}; color: white; padding: 10px 8px; font-size: 0.85em; min-width: 90px;">{escape_html(p)}</th>'
+            f'<th style="background-color: {kleuren.get(p, "#666")}; color: white; padding: 6px 4px; font-size: 0.78em; min-width: 60px;">{escape_html(p)}</th>'
             for p in partijen_namen
         )
 
@@ -391,6 +391,7 @@ def generate_html(partijen_namen, kleuren, urls, thema_namen, thema_analyse, mat
         tldr_section = f'''
         <div id="view-tldr" class="view-section active">
             <h2>Geen tijd om alles te lezen? Scan hier waar de partijen staan!</h2>
+            <p class="mobile-hint">&#128241; Deze tabel werkt op een telefoon het beste in landschapsmodus (horizontaal).</p>
             <p style="margin: 10px 0; color: var(--text-light);">
                 Hover over een cel voor een citaat uit de bron. Kleuren:
                 <span class="tldr-legend" style="background:#2e7d32;">VOOR</span>
@@ -404,7 +405,7 @@ def generate_html(partijen_namen, kleuren, urls, thema_namen, thema_analyse, mat
                 <table class="matrix-table tldr-table">
                     <thead>
                         <tr>
-                            <th style="text-align:left; background: #f5f5f5; min-width:200px;">Onderwerp</th>
+                            <th style="text-align:left; background: #f5f5f5; min-width:140px;">Onderwerp</th>
                             {tldr_headers}
                         </tr>
                     </thead>
@@ -729,8 +730,8 @@ def generate_html(partijen_namen, kleuren, urls, thema_namen, thema_analyse, mat
         /* TLDR heatmap */
         .tldr-table td.tldr-cell {{
             font-weight: 700;
-            font-size: 0.85em;
-            padding: 8px 6px;
+            font-size: 0.8em;
+            padding: 5px 3px;
             cursor: help;
             border: 1px solid #e0e0e0;
             position: relative;
@@ -764,15 +765,16 @@ def generate_html(partijen_namen, kleuren, urls, thema_namen, thema_analyse, mat
             background: #e3f2fd !important;
             font-weight: 700;
             text-align: left !important;
-            padding: 10px !important;
-            font-size: 0.95em;
+            padding: 6px 8px !important;
+            font-size: 0.88em;
             color: #1565c0;
         }}
         .issue-label {{
             text-align: left !important;
             font-weight: 600;
-            padding: 8px 12px !important;
-            min-width: 200px;
+            padding: 5px 6px !important;
+            min-width: 140px;
+            font-size: 0.82em;
         }}
 
         footer {{
@@ -782,11 +784,31 @@ def generate_html(partijen_namen, kleuren, urls, thema_namen, thema_analyse, mat
             font-size: 0.85em;
         }}
 
+        .mobile-hint {{
+            display: none;
+            margin: 8px 0;
+            padding: 8px 12px;
+            background: #fff3e0;
+            border: 1px solid #ffe0b2;
+            border-radius: 6px;
+            color: #e65100;
+            font-size: 0.85em;
+        }}
+
         @media (max-width: 768px) {{
             .partij-cards-grid {{
                 grid-template-columns: 1fr;
             }}
             header h1 {{ font-size: 1.4em; }}
+            .mobile-hint {{ display: block; }}
+        }}
+        @media (max-height: 500px) and (orientation: landscape) {{
+            .container {{ padding: 8px; }}
+            .tldr-table td.tldr-cell {{ padding: 3px 2px; font-size: 0.75em; }}
+            .issue-label {{ padding: 3px 4px !important; min-width: 110px; font-size: 0.75em; }}
+            .categorie-header {{ padding: 4px 6px !important; font-size: 0.82em; }}
+            .tldr-table th {{ padding: 4px 2px; font-size: 0.72em; min-width: 50px !important; }}
+            .mobile-hint {{ display: none; }}
         }}
     </style>
 </head>
