@@ -866,6 +866,7 @@ def generate_html(partijen_namen, kleuren, urls, thema_namen, thema_analyse, mat
     <footer>
         <p>Gegenereerd op basis van openbare informatie van partij-websites. Geen interpretatie of voorspelling.</p>
         <p>Bronnen: {', '.join(f'<a href="{escape_html(u)}" target="_blank" rel="noopener noreferrer">{escape_html(n)}</a>' for n, u in urls.items())}</p>
+        <p style="margin-top: 8px;">Open source &mdash; <a href="https://github.com/frankvaneykelen/GR2026-Heiloo" target="_blank" rel="noopener noreferrer">bekijk de broncode</a> of <a href="https://github.com/frankvaneykelen/GR2026-Heiloo/issues" target="_blank" rel="noopener noreferrer">meld een probleem</a>.</p>
     </footer>
 
     <script>
